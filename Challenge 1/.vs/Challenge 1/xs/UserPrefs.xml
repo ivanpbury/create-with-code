@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{557A04CF-093B-3E59-CE6A-2AF9481A8010}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Challenge 1/Scripts/PlayerControllerX.cs">
+    <Files>
+      <File FileName="Assets/Challenge 1/Scripts/PlayerControllerX.cs" Line="24" Column="69" />
+      <File FileName="Assets/Challenge 1/Scripts/FollowPlayerX.cs" Line="20" Column="45" />
+      <File FileName="Assets/Challenge 1/Scripts/PropRotate.cs" Line="20" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Challenge 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Challenge 1" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PlayerControllerX.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="abb34ce0-3537-4a65-9d8b-213c7974a16b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
